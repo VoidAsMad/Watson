@@ -9,4 +9,4 @@
 
 ## [2022-05-17]
 1. `/button_certify [msg] [add_role] (button_msg)`를 통해 버튼형 인증메세지를 출력합니다.
-2. `/set_channel [channel]`
+2. `/set_channel [channel]`를 통해 인증메세지를 보낼 채널을 설정합니다.
